@@ -1,0 +1,4 @@
+module SwiftCommonCrypto [system] {
+    header "shim.h"
+    export *
+}
